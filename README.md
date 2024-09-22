@@ -11,6 +11,7 @@
 - 🔧 Web Development: Skilled in front-end. <br>
 - 🎮 Game Development: Exploring the world of game design with Unity. <br>
 - 🎨 Design: Experienced with creative tools like Photoshop and Illustrator for design work.<br>
+- 🎨 UI/UX: Experienced with Figma for UI/UX <br>
 - 💡 Problem Solving: Enthusiastic about tackling real-world problems with innovative tech solutions.<br>
 </h5>
 
