@@ -17,7 +17,7 @@
 <br>
 
 <h1>How to reach </h1>
-- 📫 <a href=https//iamengr.sami@gmail.com> iamengr.sami@gmail.com </a> <br>
+- 📫 <a mailto=https//iamengr.sami@gmail.com> iamengr.sami@gmail.com </a> <br>
 
 <br>
 
